@@ -1,1 +1,1 @@
-# react_notes_state_basic
+Note on state behaviour and building blocks of function using state. 
